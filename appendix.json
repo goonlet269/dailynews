@@ -1,0 +1,40 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "header": "Clash Of Clans 1:1 Port",
+      "subheader": "A feature deep dive into the technical recreation",
+      "by": "gooblet234",
+      "date": "2025-10-01",
+      "category": "Games",
+      "tags": ["Port", "ClashOfClans", "Development"],
+      "coverImage": "images/clash-port.jpg",
+      "summary": "An in-depth look at how the 1:1 Clash of Clans port was designed, optimized, and launched.",
+      "content": "<p>The project involved replicating the entire Clash of Clans gameplay loop from scratch, focusing on performance, parity, and cross-platform support...</p>"
+    },
+    {
+      "id": 2,
+      "header": "New Servers & Custom Domains",
+      "subheader": "Infrastructure changes and expanded hosting plans",
+      "by": "gooblet234",
+      "date": "2025-10-01",
+      "category": "Infrastructure",
+      "tags": ["Servers", "Hosting", "Networking"],
+      "coverImage": "images/servers.jpg",
+      "summary": "We launched new servers, integrated custom domain support, and improved SSL handling for safer browsing.",
+      "content": "<p>As part of our backend overhaul, we’ve added load-balanced servers and CDN mirroring to reduce latency worldwide...</p>"
+    },
+    {
+      "id": 3,
+      "header": "WebProwlxy v1 - Unblockable",
+      "subheader": "Introducing our resilient web proxy service",
+      "by": "gooblet234",
+      "date": "2025-10-09",
+      "category": "Security",
+      "tags": ["Proxy", "Networking", "WebTools"],
+      "coverImage": "images/webprowlxy.jpg",
+      "summary": "A look into WebProwlxy’s architecture and how it resists detection and blocking mechanisms.",
+      "content": "<p>WebProwlxy v1 introduces advanced routing algorithms and dynamic IP shifting, designed to withstand modern blocking techniques...</p>"
+    }
+  ]
+}
